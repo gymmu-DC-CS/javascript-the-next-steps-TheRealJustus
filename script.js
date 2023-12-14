@@ -95,7 +95,7 @@ export function exercise07(args) {
 
   for (let i = 0; i < input.length; i++) {
     const currentElement = input[i]
-    if (currentElement === "and") {
+    if (currentElement === "97, 110, 100") {
       return true
     }
   }
